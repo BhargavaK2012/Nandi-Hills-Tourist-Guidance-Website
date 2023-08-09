@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    background-image: url("css/Images/Nandi_at_Nandi_Hills-1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#main_heading {
+
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    margin: 4%;
+    color: white;
+    font-weight: bold;
+    text-shadow: .3px .3px #000000;
+    font-size: large;
+}
+
+nav {
+    padding: 1%;
+    color: white;
+    border-style: solid;
+}
+
+
+#welcome {
+
+    color: white;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5%;
+
+
+}

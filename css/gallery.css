@@ -1,0 +1,135 @@
+body {
+    background-color: black;
+    background-image: url("Images/Nandi_at_Nandi_Hills-1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+
+
+#main_heading {
+
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+
+
+nav {
+    padding: 1%;
+    color: white;
+    border-style: solid;
+}
+
+
+
+
+
+#welcome {
+
+    color: white;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5%;
+}
+
+
+
+
+
+/* Full-width inputs */
+input[type=text] {
+    width: 100%;
+    padding: 10px 35px;
+    margin: auto;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border-box;
+    border-radius: 100px;
+
+}
+
+/* Set a style for all buttons */
+input[type=submit] {
+    border-radius: 100px;
+    background-color: #18c385;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-top: 20px;
+
+}
+
+input[type=file] {
+    border-radius: 100px;
+    background-color: #18c385;
+    color: white;
+    padding: 13px 18px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 95%;
+
+
+}
+
+/* Add a hover effect for buttons */
+input[type=submit]:hover {
+    opacity: 0.8;
+}
+
+
+
+
+/* Add padding to containers */
+.container {
+    width: 800px;
+    margin: auto;
+    margin-top: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: white;
+    padding: 2%;
+    border-radius: 2%;
+    border-style: solid;
+
+
+
+
+}
+
+table {
+    color: white;
+    margin: auto;
+    width: 70%;
+    display: grid;
+
+
+
+}
+
+
+td {
+
+    position: relative;
+    font-size: 20px;
+    padding: 1.5%;
+    width: fit-content;
+
+
+
+
+
+}

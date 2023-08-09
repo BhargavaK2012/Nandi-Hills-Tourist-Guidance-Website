@@ -1,0 +1,37 @@
+.containers {
+
+    border-style: solid;
+    border-radius: 2%;
+    color: white;
+    width: 30%;
+    margin: 1%;
+    float: left;
+    padding: 0.2%;
+    background-color: rgb(77, 117, 42);
+}
+
+.main_container {
+
+    padding: 1%;
+    margin: auto;
+}
+
+.container_heading {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-style: italic;
+}
+
+button {
+    border: none;
+    background-color: greenyellow;
+    padding: 1% 5%;
+    border-radius: 10%;
+    margin: 2%;
+    margin-left: 35%;
+}
+
+button:hover {
+    opacity: 0.8;
+}
